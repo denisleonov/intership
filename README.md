@@ -1,2 +1,2 @@
 # intership
-Test task for Non-sequential Text Generation JB intership project
+Test task for Non-sequential Text Generation JB internship project
